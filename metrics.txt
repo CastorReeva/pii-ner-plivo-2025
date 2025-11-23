@@ -1,0 +1,5 @@
+PII-only F1: 1.00
+Non-PII F1: 1.00
+Macro F1: 0.655
+Latency p50: 3.56 ms
+Latency p95: 4.15 ms
